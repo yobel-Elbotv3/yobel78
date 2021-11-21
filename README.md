@@ -1,27 +1,27 @@
-🔗SPESIAL GRUP
+# SPESIAL GRUP
 
 ➣Whatsapp Grup
 
-🔗RAILWAY
+# RAILWAY
 
 ➣railway.app
 
-🔗REST API
+# REST API
 
 ➣contact Number
 
-🔗FILE EDIT
+# FILE EDIT
 
 ➣the requiredvalue
  configjs
 
 ➣created a new account
 
-🔗T-MUX
+# T-MUX
 
 ➣github
 
-🔗SC-Bot
+# SC-Bot
 
 >pkg update && pkg upgrade
 
@@ -42,19 +42,19 @@
 
 >node index.js
 
-🔗RUN
+# RUN
 
 >node index.js
 
-🔗RDP/LINUX PROMPT
+# RDP/LINUX PROMPT
 
 ☞LIST SESION
 
 ➣daftar percakapan
 
-☞MODE:PUBLIK
+# MODE:PUBLIK
 
-☞POINT&LIMIT
+# POINT&LIMIT
 
 ➣.exchange
 
