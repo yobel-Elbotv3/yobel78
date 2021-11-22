@@ -1,3 +1,6 @@
+# MATERIAL FOR TERMUX-SETUP-STORAGE
+          simple dan Praktis
+
 # SPESIAL GRUP
 
 ➣Whatsapp Grup
