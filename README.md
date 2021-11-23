@@ -227,7 +227,4 @@
 ➣.runtime
 
 ➣☞Just Material For Study
-Coorporated by:@yobel/ELbotv3
-
-# yobel78
-Busy
+Coorporated by:@yobel/elbotv3
