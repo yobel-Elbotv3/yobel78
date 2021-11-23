@@ -39,7 +39,7 @@
 >pkg install image magick
 
 >git clone
- https://github.com/yobel-Elbotv3
+ https://github.com/yobel-elbotv3
 
 >cd nodejs.org
 
@@ -49,7 +49,9 @@
 
 # RUN
 
->node index.js
+> bash install.sh
+
+> node index.js
 
 # RDP/LINUX PROMPT
 
@@ -227,4 +229,4 @@
 ➣.runtime
 
 ➣☞Just Material For Study
-Coorporated by:@yobel/elbotv3
+©Coorporated by:@yobel-elbotv3
