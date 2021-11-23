@@ -3,7 +3,9 @@
 
 # SPESIAL GRUP
 
-➣Whatsapp Grup
+➣ whatsapp
+
+➣ instagram
 
 # RAILWAY
 
@@ -37,7 +39,7 @@
 >pkg install image magick
 
 >git clone
- https://github.com/yobel-Elbotv3/node.js.org.git
+ https://github.com/yobel-Elbotv3
 
 >cd nodejs.org
 
